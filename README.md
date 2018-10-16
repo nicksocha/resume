@@ -13,7 +13,7 @@
         LAN/WAN Protocols (TCP/IP, DNS, DHCP), ServiceNow ITSM Software, Writing Knowledge Base Articles,
         Virtualization (VirtualBox, VMware), Linux, 24 x 7 On-Call Rotation<br>
         <!-- Programming Skills -->
-        <b>Programming Skills</b>: HTML, CSS, JavaScript/jQuery, Bootstrap, Git / GitHub
+        <b>Programming Skills</b>: HTML, CSS, JavaScript, Bootstrap, Git / GitHub
     </p>
     <!-- EXPERIENCE -->
     <h3>EXPERIENCE</h3>
