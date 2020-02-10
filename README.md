@@ -2,21 +2,36 @@
     <!-- Name -->
     <h1 align="center">Nick Socha</h1>
     <!-- Contact Info -->
-    <p align="center"><a href="https://www.google.com/search?q=Oak%20Creek,%20WI&cad=h" target="_blank">Oak Creek, WI</a> • <a href="mailto:nick@socha.me">nick@socha.me</a>• 414-502-8108 • <a href="http://linkedin.com/in/itnick" target="_blank">linkedin.com/in/itnick</a></p>
+    <p align="center"><a href="https://www.google.com/maps/place/Milwaukee,+WI/@43.057806,-88.1075137,11z/data=!3m1!4b1!4m5!3m4!1s0x880502d7578b47e7:0x445f1922b5417b84!8m2!3d43.0389025!4d-87.9064736" target="_blank">Milwaukee, WI</a> • <a href="http://contact.nicksocha.com">Email</a> • (414) 502-8108 • <a href="http://linkedin.nicksocha.com" target="_blank">LinkedIn</a> • <a href="http://github.nicksocha.com" target="_blank">GitHub</a> • <a href="https://nicksocha.com" target="_blank">Portfolio</a></p>
     <!-- Intro -->
-    <p>Technology professional with four years of experience and diverse skills attained through technical training and personal projects. Passionate about technology and driven by intellectual curiosity to continuously improve skills and stay abreast of trends and tools.</p>
+    <p>Hello, I’m Nick Socha. I am a self-taught front-end developer with two years experience. I primarily focus on writing clean and efficient code and am experienced in HTML, CSS, JavaScript, Git, and WordPress. Life long learner with skills attained through training and personal projects. Passionate about technology and seeking freelance work or a front-end development role.</p>
     <!-- SKILLS -->
-    <h3>SKILLS</h3>
+    <h3><u>SKILLS</u></h3>
     <p>
-        <!-- IT Skills -->
-        <b>IT skills</b>: Troubleshooting Windows 7 - 10, Mobile Devices (Android / iOS), Microsoft Office 365 Support,
-        LAN/WAN Protocols (TCP/IP, DNS, DHCP), ServiceNow ITSM Software, Writing Knowledge Base Articles,
-        Virtualization (VirtualBox, VMware), Linux, 24 x 7 On-Call Rotation<br>
         <!-- Programming Skills -->
-        <b>Programming Skills</b>: HTML, CSS, JavaScript, Bootstrap, Git / GitHub
+        <b>Programming Skills</b>: HTML, CSS, JavaScript, Bootstrap, Git / GitHub, JAMStack, WordPress.<br>
+        <!-- IT Skills -->
+        <b>IT skills</b>: Imaging, configuring, installing / replacing, and administering Windows 7-10 desktop / laptops (Dell, HP, Lenovo). Troubleshooting: applications, BYOD, hardware, software, VoIP phones, printer, VPN, and network issues. Creating and maintaining knowledge base articles, performing inventory staging and asset management responsibilities. I am well versed in Bomgar, Citrix, Epic, G Suite , Kronos, LANDesk, Office 2010 - Office 365, SCCM, Service Now, SharePoint, and Skype.
     </p>
+    <!-- PROJECTS -->
+    <h3><u>PROJECTS</u></h3>
+    <!-- NICKSOCHA.COM -->
+    <a href="https://nicksocha.com/" target="_blank">NICKSOCHA.COM</a>
+    <p>●Portfolio site of Nick Socha to house all my personal projects. Built with vanilla HTML, CSS, and JavaScript.</p>
+    <!-- NICKSOCHA.DEV -->
+    <a href="https://nicksocha.dev/" target="_blank">NICKSOCHA.DEV</a>
+    <p>● NickSocha.dev is a WordPress website I built to send clients to. Check it out and possibly we can work together on your next project!</p>
+    <!-- PODCASTLI.COM -->
+    <a href="https://podcastli.com/" target="_blank">PODCASTLI.COM</a>
+    <p>● Podcastli.com is a website I built that you can upload the subscriptions file you export from your favorite podcast app to get a list of your podcasts.</p>
+    <!-- SOCHA.ME -->
+    <a href="https://socha.me/" target="_blank">SOCHA.ME</a>
+    <p>● Socha.me is a website I built in vanilla HTML, CSS, and JavaScript as a CV / Resume site to showcase my experience.</p>
     <!-- EXPERIENCE -->
-    <h3>EXPERIENCE</h3>
+    <h3><u>EXPERIENCE</u></h3>
+    <!-- Front-end Web Developer -->
+    <p><b>Front-end Web Developer</b>, <a href="https://nicksocha.com/" target="_blank">NickSocha.com</a> - Milwaukee, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Nov 2017 - Present</b></p>
+    <p>● Design, prototype, and implement scalable, reliable, and maintainable websites using HTML, CSS, and JavaScript based technologies.</p>
     <!-- Senior Desktop Support Technician -->
     <p><b>Senior Desktop Support Technician</b>, <a href="https://ascension.org/Our-Work/Ascension-Technologies" target="_blank">Ascension Technologies</a> - Glendale ,WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Sep 2016 - Present</b></p>
     <p>● Member of a ~20 technician team at one of the US’s largest healthcare organizations supporting nine major facilities and 10+ clinics in southeastern Wisconsin with ~7,000 users and ~11,000 devices.<br>● Providing tier 2 infrastructure and software support in desktop hardware and network environments through collaboration with the helpdesk, applications teams, vendors, and other IS associates.<br>● Ensure industry standard compliance while completing end to end installs, moves, and projects.</p>
@@ -25,15 +40,11 @@
     <p>● Assigned to Ascension’s desktop refresh project, working on a team of approximately 6 people and covering multiple sites across southeastern Wisconsin.<br>● Replaced computers, assessed build sheets for potential issues, reconnected machines and peripherals, and performed testing and troubleshooting to ensure systems functioned as required.<br>● Maintained product inventories and a tidy environment.</p>
     <!-- QA Tester -->
     <p><b>QA Tester</b>, <a href="https://corporate.kohls.com/" target="_blank">Kohl's Corporate Support Center</a> - Menomonee Falls, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Feb 2015 - May 2015</b></p>
-    <p>● Performed defect discovery and troubleshooting of digital price tags, testing 400+ tags to meet daily goals.<br>● Effectively documented issues discovered during testing. Coacted with project management to resolve issues.<br>● Collect and report data using specific spreadsheets and applicable databases.</p>
-    <!-- Desktop Specialist -->
-    <p><b>Desktop Specialist</b>, <a href="https://corporate.kohls.com/" target="_blank">Kohl's Corporate Headquarters</a> - Menomonee Falls, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;<b>Nov 2014 - Feb 2015</b></p>
-    <p>● Imaging HP desktops and laptops and verified hardware, OS, and network functionalities.<br>● Set up and configured 6+ machines per day, swapping old with new, confirmed machines’ functionality.<br>● Ensured efficient support and customer satisfaction.</p>
-    <!-- Warehouse Associate -->
-    <p><b>Warehouse Associate</b>, <a href="https://csehalo.com/" target="_blank">Caliendo Savio Enterprises</a> - New Berlin, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Oct 2013 - Nov 2014</b></p>
-    <p>● Proactively managed the process of verifying, packaging and stocking a bulk quantity of orders to cater efficiency while maintaining warehouse cleanliness.<br>● Checked-in and received product and transported orders with high-level order pickers.<br>● Facilitated merchandising in diverse settings. Engaged in multiple warehouse operations to ensure optimum productivity.</p>
+    <p>● Initially hired for desktop imaging and customer support and promoted within four months.<br>● Performed defect discovery and troubleshooting of digital price tags, testing 400+ tags to meet daily goals.<br>● Effectively documented issues discovered during testing. Coacted with project management to resolve issues.<br></p>
     <!-- Education -->
-    <h3>EDUCATION</h3>
+    <h3><u>EDUCATION</u></h3>
+    <!-- Online Courses: Various Courses -->
+    <p><b>Online Courses:</b> <a href="http://learning.nicksocha.com" target="_blank">Various Courses</a> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; <b>2017 - Life</b></p>
     <!-- Degree Program: IT Networking -->
-    <p><b><a href="https://www.matc.edu/business/degrees/it-network-specialist.cfm" target="_blank">Degree Program: IT Networking</a></b> - <a href="https://www.matc.edu/" target="_blank">Milwaukee Area Technical College</a> - CGPA: 3.111 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <b>2013 - 2015</b></p>
+    <p><b>Degree Program:</b> <a href="https://www.matc.edu/course-catalog/stem/it-network-specialist.html" target="_blank">IT Networking</a> - <a href="https://www.matc.edu/" target="_blank">Milwaukee Area Technical College</a> - CGPA: 3.111 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <b>2013 - 2015</b></p>
 </body>
