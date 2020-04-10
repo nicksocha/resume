@@ -4,12 +4,12 @@
     <!-- Contact Info -->
     <p align="center"><a href="https://www.google.com/maps/place/Milwaukee,+WI/@43.057806,-88.1075137,11z/data=!3m1!4b1!4m5!3m4!1s0x880502d7578b47e7:0x445f1922b5417b84!8m2!3d43.0389025!4d-87.9064736" target="_blank">Milwaukee, WI</a> • <a href="http://contact.nicksocha.com">Email</a> • (414) 502-8108 • <a href="http://linkedin.nicksocha.com" target="_blank">LinkedIn</a> • <a href="http://github.nicksocha.com" target="_blank">GitHub</a> • <a href="https://nicksocha.com" target="_blank">Portfolio</a></p>
     <!-- Intro -->
-    <p>Hello, I’m Nick Socha. I am a self-taught front-end developer with two years experience. I primarily focus on writing clean and efficient code and am experienced in HTML, CSS, JavaScript, Git, and WordPress. Life long learner with skills attained through training and personal projects. Passionate about technology and seeking freelance work or a front-end development role.</p>
+    <p>Hello, I’m Nick Socha. I am a self-taught front-end developer with over 1 year of experience from online courses and personal projects. My primary focus has been on writing clean and efficient HTML, CSS, and JavaScript. Lifelong learner, passionate about technology, and seeking freelance work or a front-end development role.</p>
     <!-- SKILLS -->
     <h3><u>SKILLS</u></h3>
     <p>
         <!-- Programming Skills -->
-        <b>Programming Skills</b>: HTML, CSS, JavaScript, Bootstrap, Git / GitHub, JAMStack, WordPress.<br>
+        <b>Programming Skills</b>: HTML, CSS, Sass, BEM, JavaScript, Bootstrap, Git / GitHub, JAMStack, React, WordPress.<br>
         <!-- IT Skills -->
         <b>IT skills</b>: Imaging, configuring, installing / replacing, and administering Windows 7-10 desktop / laptops (Dell, HP, Lenovo). Troubleshooting: applications, BYOD, hardware, software, VoIP phones, printer, VPN, and network issues. Creating and maintaining knowledge base articles, performing inventory staging and asset management responsibilities. I am well versed in Bomgar, Citrix, Epic, G Suite , Kronos, LANDesk, Office 2010 - Office 365, SCCM, Service Now, SharePoint, and Skype.
     </p>
@@ -17,10 +17,10 @@
     <h3><u>PROJECTS</u></h3>
     <!-- NICKSOCHA.COM -->
     <a href="https://nicksocha.com/" target="_blank">NICKSOCHA.COM</a>
-    <p>●Portfolio site of Nick Socha to house all my personal projects. Built with vanilla HTML, CSS, and JavaScript.</p>
+    <p>● Portfolio site of Nick Socha to house all my personal projects. Built with vanilla HTML, CSS, and JavaScript.</p>
     <!-- NICKSOCHA.DEV -->
     <a href="https://nicksocha.dev/" target="_blank">NICKSOCHA.DEV</a>
-    <p>● NickSocha.dev is a WordPress website I built to send clients to. Check it out and possibly we can work together on your next project!</p>
+    <p>● NickSocha.dev is a WordPress website I built for people who are interested in working together on building them a WordPress website.</p>
     <!-- PODCASTLI.COM -->
     <a href="https://podcastli.com/" target="_blank">PODCASTLI.COM</a>
     <p>● Podcastli.com is a website I built that you can upload the subscriptions file you export from your favorite podcast app to get a list of your podcasts.</p>
@@ -30,7 +30,7 @@
     <!-- EXPERIENCE -->
     <h3><u>EXPERIENCE</u></h3>
     <!-- Front-end Web Developer -->
-    <p><b>Front-end Web Developer</b>, <a href="https://nicksocha.com/" target="_blank">NickSocha.com</a> - Milwaukee, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Nov 2017 - Present</b></p>
+    <p><b>Front-end Web Developer</b>, <a href="https://nicksocha.com/" target="_blank">NickSocha.com</a> - Milwaukee, WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Apr 2019 - Present</b></p>
     <p>● Design, prototype, and implement scalable, reliable, and maintainable websites using HTML, CSS, and JavaScript based technologies.</p>
     <!-- Senior Desktop Support Technician -->
     <p><b>Senior Desktop Support Technician</b>, <a href="https://ascension.org/Our-Work/Ascension-Technologies" target="_blank">Ascension Technologies</a> - Glendale ,WI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <b>Sep 2016 - Present</b></p>
